@@ -1,0 +1,20 @@
+node_modules
+yarn-error.log
+
+phpcs.xml
+phpunit.xml
+
+package-lock.json
+
+reports
+
+nightwatch.settings.json
+
+.env
+
+.csspellcache
+
+# Directorios de cache
+/sites/*/files/php/*
+/sites/*/files/css/*
+/sites/*/files/js/*
